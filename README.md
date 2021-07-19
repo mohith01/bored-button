@@ -12,3 +12,4 @@ Contributions or Ideas to add to this project are welcome
 
 To Do:
 - [ ] Re-design the options into a neat UI
+- [ ] Add Context Menu items
